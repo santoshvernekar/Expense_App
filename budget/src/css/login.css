@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loginform{
+    background-color: gainsboro;
+    margin-top: 200px;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 200px;
+    width: 400px;
+    color: green;
+    height: 200px;
+  
+}
+.logininner{
+    margin: 80px;
+    border-style: ridge;
+    border: 2px;
+    border-color: black;
+}
+.button{
+    background-color: black;
+   
+}
+.submit{
+    margin-top: 30px;
+}

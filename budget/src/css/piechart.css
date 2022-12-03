@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.paichart{
+    display:inline-block;
+    position: relative;
+    z-index: -6;
+}
+.chart1{
+   display: inline-block;
+    width: 100px;
+    margin-left: 50px;
+}
+.chart{
+    display: inline-block;
+    position: relative;
+    right: 0;
+    margin: 30px;
+}
+
+
+.expanseforminner{
+   display: inline-block;
+   background-color: rgb(143, 104, 180);
+   display: inline-block;
+   height: 200px;
+   align-items: center;
+   margin-top: 30px;
+   padding: 20px;
+}
+.paginationbutton{
+        margin: 30px;
+
+}
+.button{
+    margin-right: 10px;
+}
+
+.expanxeform{
+   display: flex;
+   text-align: center;
+   background-color: blue;
+   padding: 30px;
+}
+label{
+    color: rgb(7, 96, 31);
+    font-size: larger;
+}
+.search{
+    margin-left: 100px;
+    padding: 0;
+}

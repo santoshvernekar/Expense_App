@@ -1,0 +1,21 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+.registerform{
+     background-color: rgb(187, 187, 16);
+     margin: 200px;
+     width: 500px;
+     color: green;
+     align-items: center;
+     display: inline-block;
+}
+.innerregister{
+     margin: 40px;
+     align-items: center;
+     margin-left: 50px;
+    
+}
+.budget{
+     margin: 80px;
+}

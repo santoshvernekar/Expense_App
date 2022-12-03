@@ -1,0 +1,11 @@
+.boederbelove{
+    margin-top: 40px;
+     background-color: rgb(91, 226, 226);
+     width: 300px;
+     border: 2px;
+     border-style: ridge;
+     border-color: black;
+     display: flex;
+     justify-content: center;
+
+}
